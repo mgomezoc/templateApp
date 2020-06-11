@@ -1,0 +1,51 @@
+/**
+ *
+ * INIT
+ *
+ */
+.botonesFooter {
+  position: absolute;
+  bottom: 100px;
+  width: 80vw;
+  z-index: 9;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+}
+
+.swiperInit {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #000;
+  z-index: 8;
+
+  & .swiper-slide {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    padding: 35px;
+    color: #fff;
+    font-size: 22px;
+
+    &.slide-1 {
+      background: #ccc url(../../../static/slide-1.jpeg) no-repeat center center;
+      background-size: cover;
+    }
+
+    &.slide-2 {
+      background: #ccc url(../../../static/slide-2.jpeg) no-repeat center center;
+      background-size: cover;
+    }
+
+    &.slide-3 {
+      background: #ccc url(../../../static/slide-3.jpg) no-repeat center center;
+      background-size: cover;
+    }
+  }
+}
