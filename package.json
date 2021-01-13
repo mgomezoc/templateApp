@@ -26,7 +26,7 @@
     "handlebars-loader": "^1.7.1",
     "jquery": "^3.4.1",
     "jquery-password-requirement-checker": "^1.0.5",
-    "jquery-validation": "^1.19.1",
+    "jquery-validation": "^1.19.3",
     "lesshat": "^4.1.0",
     "linq": "^3.2.0",
     "localforage": "^1.7.3",
