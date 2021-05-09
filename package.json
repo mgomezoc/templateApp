@@ -22,7 +22,7 @@
     "caniuse-lite": "^1.0.30000981",
     "crypto-aes-ctr": "^2.0.0",
     "fastclick": "^1.0.6",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.7",
     "handlebars-loader": "^1.7.1",
     "jquery": "^3.4.1",
     "jquery-password-requirement-checker": "^1.0.5",
