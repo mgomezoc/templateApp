@@ -18,7 +18,7 @@
     "aes-js": "^3.1.2",
     "bootstrap": "^4.3.1",
     "bootstrap4-fs-modal": "^0.1.5",
-    "browserslist": "^4.6.4",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30000981",
     "crypto-aes-ctr": "^2.0.0",
     "fastclick": "^1.0.6",
